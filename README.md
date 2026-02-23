@@ -1,4 +1,4 @@
-A desktop calculator built with Python and Pygame to demonstrate :highlight[object-oriented programming], expression parsing, and clean project structure.
+A desktop calculator built with Python and Pygame to demonstrate object-oriented programming, expression parsing, and clean project structure.
 
 ## Features
 - Basic arithmetic operations (+, −, ×, ÷)
